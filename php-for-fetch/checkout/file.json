@@ -1,0 +1,26 @@
+[
+    {
+        "id": 19,
+        "name": "Arinac",
+        "price": 250,
+        "updated_price": 250,
+        "image": "1676915467-arinac.jpg",
+        "qty": 1
+    },
+    {
+        "id": 15,
+        "name": "chloroquine",
+        "price": 300,
+        "updated_price": 300,
+        "image": "1676685644-medicin.jpg",
+        "qty": 1
+    },
+    {
+        "id": 10,
+        "name": "Cremaffin",
+        "price": 700,
+        "updated_price": 700,
+        "image": "1676635308-cremaffin-304x304.jpeg",
+        "qty": 1
+    }
+]
